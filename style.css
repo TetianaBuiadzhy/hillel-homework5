@@ -1,0 +1,16 @@
+nav h3 {
+    color:brown;
+}
+nav {
+    background-color: antiquewhite;
+}
+h1 {
+    color:darkred;
+}
+h2, h3 {
+    color: red;
+}
+[href] {
+    color: brown;
+    background-color: lightcoral;
+}
